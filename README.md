@@ -1,1 +1,1 @@
-# Learning three.js and a-frame
+# Learning Three.js and A-Frame
