@@ -1,3 +1,6 @@
 # A-Frame Basics
-* Creating the scene with boxes and circles
-* Importing the A-Frame library
+* Basic primitives and HTML attributes
+* Position and relative positioning
+* Rotation and relative Rotation
+* Scale, relative scale, and reflection
+* Image textures and materials
